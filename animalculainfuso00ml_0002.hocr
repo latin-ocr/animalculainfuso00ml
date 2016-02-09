@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "animalculainfuso00ml_0002.png"; bbox 0 0 1948 2679; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 202 90">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 202 90">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 202 90; baseline 0 2589"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 202 90; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 389 890 1340 1820">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 389 890 1340 1820">
+     <span class='ocr_line' id='line_1_2' title="bbox 593 890 1290 929; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 593 890 878 929; x_wconf 87' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_3' title='bbox 929 890 1290 928; x_wconf 89' lang='lat' dir='ltr'><strong>UNIVERSITY.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 793 1510 1100 1543; baseline -0.007 0"><span class='ocrx_word' id='word_1_4' title='bbox 793 1510 1100 1543; x_wconf 76' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 389 1568 1002 1615; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 389 1568 397 1573; x_wconf 56' lang='lat'>⁴</span> <span class='ocrx_word' id='word_1_6' title='bbox 889 1596 927 1615; x_wconf 74' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_7' title='bbox 943 1596 1002 1615; x_wconf 76' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 554 1673 1340 1710; baseline -0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 554 1684 730 1710; x_wconf 78' lang='lat' dir='ltr'>MUSEUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 750 1684 803 1708; x_wconf 87' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_10' title='bbox 822 1683 1123 1708; x_wconf 78' lang='lat' dir='ltr'>COMPARATIVE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1142 1673 1340 1708; x_wconf 80' lang='lat' dir='ltr'>206LOGY.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 868 1753 1025 1820; baseline 0.019 -34"><span class='ocrx_word' id='word_1_12' title='bbox 868 1753 1025 1820; x_wconf 42' lang='lat' dir='ltr'>aqna).</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 410 171 1935 2673">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 410 171 1935 2673">
+     <span class='ocr_line' id='line_1_7' title="bbox 410 171 1935 2673; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 410 171 1935 2673; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "animalculainfuso00ml_0511.png"; bbox 0 0 2067 2684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1538 170 1875 222">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1538 170 1875 222">
+     <span class='ocr_line' id='line_1_1' title="bbox 1538 170 1875 222; baseline -0.03 0"><span class='ocrx_word' id='word_1_1' title='bbox 1538 170 1641 222; x_wconf 56' lang='grc' dir='ltr'><em>Ταῦ,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1649 180 1758 218; x_wconf 79' lang='lat' dir='ltr'><em>XXX</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1765 178 1859 216; x_wconf 56' lang='grc' dir='ltr'><em>ΥΠ]</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1869 205 1875 211; x_wconf 86' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 773 553 1717 725">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 773 553 1717 725">
+     <span class='ocr_line' id='line_1_2' title="bbox 773 553 1717 725; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 773 553 926 690; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1573 570 1717 725; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 304 1434 1784 2227">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 304 1434 1784 2227">
+     <span class='ocr_line' id='line_1_3' title="bbox 304 1434 1784 2227; baseline 0 457"><span class='ocrx_word' id='word_1_7' title='bbox 304 1434 1784 2227; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
